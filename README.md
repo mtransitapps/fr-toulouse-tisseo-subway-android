@@ -3,9 +3,11 @@
 
 <img width="25%" height="25%" alt="App icon" src="app-android/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
-## Coming soon...
+## Join the Private Beta
 
-Currently being set up and tested before initial release.
+[Join the Private Beta](https://play.google.com/apps/testing/org.mtransit.android.fr_toulouse_tisseo_subway)
+
+Learn more about the [private beta program](https://github.com/mtransitapps/mtransit-for-android/wiki/Beta).
 
 ## Screenshots
 
@@ -14,6 +16,17 @@ Currently being set up and tested before initial release.
 <img width="25%" height="25%" alt="App screenshot #2" src="app-android/src/main/play/listings/en-US/graphics/phone-screenshots/2.png"/>
 <img width="25%" height="25%" alt="App screenshot #3" src="app-android/src/main/play/listings/en-US/graphics/phone-screenshots/3.png"/>
 </p>
+
+<details>
+  <summary>(en français)</summary>
+
+  <p float="left">
+  <img width="25%" height="25%" alt="French app screenshot" src="app-android/src/main/play/listings/fr-FR/graphics/phone-screenshots/1.png"/>
+  <img width="25%" height="25%" alt="French app screenshot" src="app-android/src/main/play/listings/fr-FR/graphics/phone-screenshots/2.png"/>
+  <img width="25%" height="25%" alt="French app screenshot" src="app-android/src/main/play/listings/fr-FR/graphics/phone-screenshots/3.png"/>
+
+  </p>
+</details>
 
 ## Social
 
